@@ -364,7 +364,7 @@ section {
         transition: .3s;
     }
 
-    header .navbar:active {
+    header .navbar.active {
         top: 70px;
     }
 
